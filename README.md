@@ -1,2 +1,2 @@
-# arenawars.github.io
+warsarenas.github.io
 
