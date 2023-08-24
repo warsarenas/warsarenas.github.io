@@ -1,1 +1,1 @@
-# arenawars.com
+# arenawars.xyz
