@@ -1,1 +1,2 @@
-# arenawars.xyz
+# arenawars.github.io
+
